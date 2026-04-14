@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Pasteboard Changelog</title>
+        <link>https://raw.githubusercontent.com/P42k/pasteboard-releases/main/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Pasteboard 1.0.0</title>
+            <sparkle:releaseNotesLink>https://github.com/P42k/pasteboard-releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+            <pubDate>Mon, 14 Apr 2026 11:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/P42k/pasteboard-releases/releases/download/v1.0.0/Pasteboard.dmg"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0.0"
+                sparkle:edSignature="PLACEHOLDER"
+                length="PLACEHOLDER"
+                type="application/octet-stream"
+            />
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
