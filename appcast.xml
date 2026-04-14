@@ -13,8 +13,8 @@
                 url="https://github.com/P42k/pasteboard-releases/releases/download/v1.0.0/Pasteboard.dmg"
                 sparkle:version="1"
                 sparkle:shortVersionString="1.0.0"
-                sparkle:edSignature="K0Z8cQHRdTEwUIGztUXw+1jwTFGC2yH2p/rOAQNGaZD8vZ86vMYbpFWhQEmsd2znbv8IAazxV6WMZ+G7vfgpDg=="
-                length="2815533"
+                sparkle:edSignature="9srKA1dqsWEa6OjJi75u3qzqaCwSFffce6TZ3WnQyktrfP4wOtPVwmk6iH1KtRt7+R8VdQ1cFQ1+SSmHDrwuBA=="
+                length="2815606"
                 type="application/octet-stream"
             />
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
